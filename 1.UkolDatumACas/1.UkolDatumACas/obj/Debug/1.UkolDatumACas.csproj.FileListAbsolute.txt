@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\bin\Debug\1.UkolDatumACas.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\bin\Debug\1.UkolDatumACas.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\bin\Debug\1.UkolDatumACas.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\1.UkolDatumACas.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\1.UkolDatumACas.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\_1.UkolDatumACas.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\_1.UkolDatumACas.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\1.UkolDatumACas.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\1.UkolDatumACas.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\1.UkolDatumACas.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\1.UkolDatumACas\1.UkolDatumACas\obj\Debug\1.UkolDatumACas.pdb
